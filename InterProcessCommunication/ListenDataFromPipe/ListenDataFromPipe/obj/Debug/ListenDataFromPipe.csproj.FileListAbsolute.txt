@@ -1,0 +1,10 @@
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\ListenDataFromPipe\InterProcessComApp2\bin\Debug\ListenDataFromPipe.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\ListenDataFromPipe\ListenDataFromPipe\bin\Debug\ListenDataFromPipe.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\ListenDataFromPipe\ListenDataFromPipe\bin\Debug\ListenDataFromPipe.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\ListenDataFromPipe\ListenDataFromPipe\bin\Debug\ListenDataFromPipe.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\ListenDataFromPipe\ListenDataFromPipe\obj\Debug\ListenDataFromPipe.csprojResolveAssemblyReference.cache
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\ListenDataFromPipe\ListenDataFromPipe\obj\Debug\ListenDataFromPipe.ListenDataFromPipeForm.resources
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\ListenDataFromPipe\ListenDataFromPipe\obj\Debug\ListenDataFromPipe.Properties.Resources.resources
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\ListenDataFromPipe\ListenDataFromPipe\obj\Debug\ListenDataFromPipe.csproj.GenerateResource.Cache
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\ListenDataFromPipe\ListenDataFromPipe\obj\Debug\ListenDataFromPipe.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\ListenDataFromPipe\ListenDataFromPipe\obj\Debug\ListenDataFromPipe.pdb

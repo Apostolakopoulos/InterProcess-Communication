@@ -1,0 +1,10 @@
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\SendDataToPipe\InterProcessComApp1\bin\Debug\SendDataToPipe.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\SendDataToPipe\SendDataToPipe\bin\Debug\SendDataToPipe.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\SendDataToPipe\SendDataToPipe\bin\Debug\SendDataToPipe.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\SendDataToPipe\SendDataToPipe\bin\Debug\SendDataToPipe.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\SendDataToPipe\SendDataToPipe\obj\Debug\SendDataToPipe.csprojResolveAssemblyReference.cache
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\SendDataToPipe\SendDataToPipe\obj\Debug\SendDataToPipe.SendDataToPipeForm.resources
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\SendDataToPipe\SendDataToPipe\obj\Debug\SendDataToPipe.Properties.Resources.resources
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\SendDataToPipe\SendDataToPipe\obj\Debug\SendDataToPipe.csproj.GenerateResource.Cache
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\SendDataToPipe\SendDataToPipe\obj\Debug\SendDataToPipe.exe
+C:\Users\ΣΤΕΦΑΝΟΣ ΑΠΟΣΤΟΛΑΚΟΠ\Desktop\GitFolder\Upload In Github\InterProcess Communication\InterProcessCommunication\SendDataToPipe\SendDataToPipe\obj\Debug\SendDataToPipe.pdb
